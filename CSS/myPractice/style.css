@@ -1,0 +1,44 @@
+/* selector {
+    property: value;
+} */
+
+body {
+    background-image: url(./grut.jpg);
+    background-size: cover;
+}
+
+h2 {
+    color: #552E00;
+    text-align: center;
+    border: 5px solid rgba(128, 78, 21, 0.5);
+    cursor: pointer;
+}
+
+p {
+    color: #D4A36A;
+    line-height: 20px;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    color: #D4A36A;
+}
+
+#div1{
+    background-color: rgba(255, 0, 0, 0.1);
+}
+.para {
+    border: 5px dotted white;
+}
+
+.midol {
+    color: tomato;
+}
+
+#div2{
+    background-color: rgba(0, 0, 255, 0.1);
+}
